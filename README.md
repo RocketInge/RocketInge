@@ -1,6 +1,6 @@
 # Hola Chicos
 
-## Les voy a contar un poco sibre mi
+## Les voy a contar un poco sobre mi
 Soy Jonathan Rodriguez tengo 19 años y hace 2 años entre a la carrera de Ingeniero en Sistemas Computacionales
 donde he amprendido muchas cosas pero aun me hace falta mucha mas experiencia la verdad aun me sigue gustando
 la carrera pero se me complican muchas cosas, quiero contribuir mucho a mi pais con mi estudio yo creo que con
